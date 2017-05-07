@@ -1,0 +1,22 @@
+-----------------1605871705
+Content-Type: application/atom+xml; charset="utf-8"
+Content-Disposition: attachment; name=atom
+MIME-Version: 1.0
+
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+        xmlns:dcterms="http://purl.org/dc/terms/">
+    <title>Deposit sample</title>
+
+    <dcterms:title>Deposit Sample</dcterms:title>
+    <dcterms:creator>Josh</dcterms:creator>
+
+</entry>
+-----------------1605871705
+Content-Type: text/plain
+Content-Disposition: attachment; name=payload; filename=test.txt
+Packaging: http://purl.org/net/sword/package/Binary
+MIME-Version: 1.0
+
+This is a test file deposited via SWORD.
+-----------------1605871705--

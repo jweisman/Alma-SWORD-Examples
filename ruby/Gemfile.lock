@@ -1,0 +1,24 @@
+GIT
+  remote: https://github.com/swordapp/sword2ruby.git
+  revision: 88e79332b6a12d1cdd27031041711b1e64005bf2
+  specs:
+    sword2ruby (1.0.2)
+      atom-tools (~> 2.0.5)
+      hpricot (~> 0.8.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    atom-tools (2.0.5)
+    hpricot (0.8.6)
+
+PLATFORMS
+  ruby
+  x64-mingw32
+  x86-mingw32
+
+DEPENDENCIES
+  sword2ruby (>= 1.0.2)!
+
+BUNDLED WITH
+   1.13.5

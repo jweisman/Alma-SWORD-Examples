@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+#http://stackoverflow.com/questions/31427400/update-local-gem-source-code
+
+gem 'sword2ruby', '>=1.0.2' , :git => 'https://github.com/swordapp/sword2ruby.git'
